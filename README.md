@@ -1,5 +1,3 @@
-# Programming Assignments of CSE 486/586
-
 ### Overview
 
 The goal of these Projects are to develop the skills of designing and implementing distributed protocols over multiple machines. 
